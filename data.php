@@ -1,5 +1,5 @@
 <?php
-
+/*test.php*/
 class baseObj {
     public $mysql = null;
     private $table = "property";
